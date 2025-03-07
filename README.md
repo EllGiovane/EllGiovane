@@ -43,15 +43,13 @@
     <img
         align="left"
         alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
+        height="52%"
         src="https://github-readme-stats.vercel.app/api?username=ellgiovane&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=EllGiovane%20Stats"
     />
     <img
         align="left"
         alt="Language Stats"
-        height="200"
-        stylr="padding-right: 10px;"
+        height="48%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellgiovane&theme=synthwave&layout=compact&custom_title=Languages"
     />
 </p>
