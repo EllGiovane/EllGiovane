@@ -22,15 +22,15 @@
       title="HTML5"
       width="10%"
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
     />
     <img
       align="left"
-      alt="HTML5"
-      title="HTML5"
+      alt="SVG"
+      title="SVG"
       width="10%"
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
     />
 </div>
 
@@ -39,14 +39,14 @@
     <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="50%"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=ellgiovane&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=EllGiovane%20Stats"
     />
     <img
     align="left"
     alt="Language Stats"
-    height="200"
+    height="50%"
     stylr="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellgiovane&theme=synthwave&layout=compact&custom_title=Languages"
     />
