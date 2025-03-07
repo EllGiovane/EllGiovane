@@ -1,5 +1,12 @@
-<img align="right" alt="" height="300px" src="https://f.feridinha.com/mlXCy.png">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8A2BE2&width=435&lines=Opa%2C+esse+%C3%A9+meu+perfil!" alt="Typing SVG" /></a>
+<img
+    align="right"
+    alt="My character"
+    height="300px"
+    src="https://f.feridinha.com/mlXCy.png">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8A2BE2&width=435&lines=Opa%2C+esse+%C3%A9+meu+perfil!" alt="Typing SVG"
+/>
+</a>
 
 ---
 
