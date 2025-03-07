@@ -44,7 +44,7 @@
     src="https://github-readme-stats.vercel.app/api?username=ellgiovane&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=EllGiovane%20Stats"
     />
     <img
-    align="left"
+    align="right"
     alt="Language Stats"
     height="50%"
     stylr="padding-right: 10px;"
