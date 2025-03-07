@@ -1,7 +1,8 @@
-<img align="right" alt="" height="300px" src="https://f.feridinha.com/mlXCy.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?weight=600&color=8A2BE2&lines=Opa%2C+esse+%C3%A9+meu+perfil!)(https://git.io/typing-svg)
-
+<p
+    <img align="right" alt="" height="300px" src="https://f.feridinha.com/mlXCy.png">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?weight=600&color=8A2BE2&lines=Opa%2C+esse+%C3%A9+meu+perfil!)(https://git.io/typing-svg)
+/>
 ---
 
 🚀 FullStack WEB.
