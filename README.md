@@ -54,14 +54,14 @@
         align="left"
         alt="GitHub Stats"
         height="200"
-        widht="52%"
+        widht="380px"
         src="https://github-readme-stats.vercel.app/api?username=ellgiovane&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=EllGiovane%20Stats"
     />
     <img
         align="left"
         alt="Language Stats"
         height="200"
-        widht="48%%"
+        widht="380px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellgiovane&theme=synthwave&layout=compact&custom_title=Languages"
     />
 </p>
