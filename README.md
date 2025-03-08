@@ -5,8 +5,8 @@
     src="https://f.feridinha.com/Mukh6.svg">
 
 <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=8A2BE2&width=435&lines=Opa%2C+esse+%C3%A9+meu+perfil!"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=3000&pause=500&color=A5FF1C&background=09090B&center=true&multiline=true&width=450&height=70&lines=root%40verona-pc%3A~%24"
+    alt="Terminal SVG"
 />
 
 ---
