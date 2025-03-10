@@ -15,7 +15,7 @@
 <ul>
     <li>🚀 FullStack WEB.</li>
     <li>🎨 Designer Figma.</li>
-    <li>📚 Studying NEXT, TailwindCSS, JS.</li>
+    <li>📚 Studying NEXT, Node, Tailwind, TypeScript.</li>
     <li>💻 Learning Linux OS.</li>
     <li>🎮 Game Enthusiast FPS, RPG.</li>
 </ul>
